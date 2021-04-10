@@ -1,16 +1,5 @@
 module.exports = {
-  siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
-    },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
-  },
+  
   plugins: [
     `gatsby-plugin-image`,
     {
@@ -127,4 +116,16 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
+  siteMetadata: {
+    title: `The MicroDose`,
+    author: {
+      name: `Nico Zahniser`,
+      summary: `who lives and works in Los Angeles building useful things.`,
+    },
+    description: `A micro-blog keeping track of Economist.`,
+    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    social: {
+      twitter: `kylemathews`,
+    },
+  },
 }
