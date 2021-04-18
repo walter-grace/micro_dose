@@ -120,12 +120,12 @@ module.exports = {
     title: `The MicroDose`,
     author: {
       name: `Nico Zahniser`,
-      summary: `who lives and works in Los Angeles building useful things.`,
+      summary: `who lives and works in Los Angeles building useful and useless things.`,
     },
-    description: `A micro-blog keeping track of Economist.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A micro-blog keeping track of Economics + Bitcoin + Blockchain.`,
+    siteUrl: `https://the-micro-dose.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      
     },
   },
 }
