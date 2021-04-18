@@ -1,6 +1,9 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import Dose from '../images/dose.png'
+import AwesomeButton from "react-awesome-button"
+import "react-awesome-button/dist/styles.css";
+
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -29,7 +32,32 @@ const Layout = ({ location, title, children }) => {
       >
       </img>
       <main>{children}</main>
+      <button
+       style={{
+        '--color-1': 'deepskyblue',
+        '--color-2': 'yellow',
+        
+
+        background: `
+          linear-gradient(
+            170deg,
+            var(--color-1),
+            var(--color-2) 80%
+          )
+        `,
+    
+        // Unrelated styles:
+        color: 'white',
+        textAlign: 'center',
+        padding: 30,
+        borderRadius: 12,
+      }}
+      
+    >
+      Good Vibes
+      </button>
       <footer>
+        
       </footer>
     </div>
   )

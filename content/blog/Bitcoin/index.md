@@ -4,14 +4,14 @@ date: "2021-05-01T22:12:03.284Z"
 description: "WTF is Bitcoin"
 ---
 
-This is my first post on Bitcoin. A summarization or microdose of what Bitcoin is.
-
+A microdose of BTC
 
 # “What is Bitcoin?”
 
 > 1. In a nutshell, how would you describe Bitcoin?
 Bitcoin is a peer-to-peer network for electronic cash. It is the first decentralized
-payment network that is powered by its users with no central authority or middlemen.
+payment network that is powered by its users with no central authority or middlemen.<iframe src="https://play.ht/embed/?article_url=https://play.ht/drafts/ExdBebup5aXfznw5CogMnJW3E262/QsY0b2d7J&voice=en-US-Wavenet-D" scrolling="no" height="90px" width="100%" frameborder="0" allowfullscreen></iframe>
+
 
 2.  #### What is Bitcoin's biggest challenge?
 Bitcoin has a number of challenges, but the biggest one is probably the
@@ -31,7 +31,7 @@ database contains every transaction ever executed in the currency. With this
 information, one can find out how much value belonged to each address at any
 point in history.
 
-6. #### How do I understand the Proof-of-Work, is it legit miners?
+6. #### How do I understand Proof-of-Work, is it legit miners?
 People often make the mistake of thinking that miners create bitcoins. This is
 false. Miners create blocks which contain a list of all the transactions which have
 occurred in the past 10 minutes. They are awarded bitcoins for this work by the
@@ -47,7 +47,8 @@ Mining is the process of spending computation power to secure Bitcoin transactio
 against reversal and introducing new Bitcoins to the system.
 9. #### Explain Bitcoin to a 5th grader.
 Bitcoin is a digital currency. It's like normal money, that you can use to buy
-things and stuff, but only online. It doesn't exist in the real world. It only
-exists online. You can't hold it in your hands. It's like if you had a piece of gold,
-but it's digital. You can use it to buy things online.
+things and stuff, but only online. It's like if you had a piece of gold,
+but instead it's digital hash. The hash can hold the Bitcoin for you, and can be only accessed through your private key.
+
+###### disclaimer* this is the very surface understanding I have of Bitcoin
 

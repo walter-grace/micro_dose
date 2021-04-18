@@ -4,25 +4,24 @@ date: "2021-04-02"
 description: tl;dr Cantillon was a proto-Austrian who was way ahead of his time.
 ---
 ##### tl;dr: Cantillon was a proto-Austrian who was way ahead of his time.
+<iframe src="https://play.ht/embed/?article_url=https://play.ht/drafts/ExdBebup5aXfznw5CogMnJW3E262/a2e6J7qJy&voice=en-US_KevinV3Voice" scrolling="no" height="90px" width="100%" frameborder="0" allowfullscreen></iframe>
+
+###
 
 Richard Cantillon was the first to systematically analyze the nature of the market process and the role of entrepreneurs in the economy. He is an early and important contributor to the Austrian School of economics. He is a forerunner of Menger and Mises, and his work is an important source of the subjective theory of value. He is also a forerunner of the Chicago School of economics.
 
 
 ## Early In Life
 
-- Cantillon's career in banking began when he was serving as an assistant to British Paymaster James Bridges during the War of Spanish Succession. His work at the War of Spanish Succession exposed him to government inefficiency and corruption. He also traveled through Europe during the War, which may have sparked his interest in cultural differences.
+Cantillon's career in banking began when he was serving as an assistant to British Paymaster James Bridges during the War of Spanish Succession. His work at the War of Spanish Succession exposed him to government inefficiency and corruption. He also traveled through Europe during the War, which may have sparked his interest in cultural differences.
 
-- Cantillon had a second career as a Parisian banker, which began in the service of his elder cousin's bank. His cousin eventually had to sign over his bank to Cantillon and declare bankruptcy in 1716. In a lost manuscript, "Observations on the Trade and Luxury of Both Nations," Cantillon blamed conditions on the opulence and heavy war debts of Britain and France.
+Cantillon had a second career as a Parisian banker, which began in the service of his elder cousin's bank. His cousin eventually had to sign over his bank to Cantillon and declare bankruptcy in 1716. In a lost manuscript, "Observations on the Trade and Luxury of Both Nations," Cantillon blamed conditions on the opulence and heavy war debts of Britain and France.
 
 
 ### 5th Grade Summary
 
 > Richard Cantillon was a banker from Ireland who wrote a book called "Essai sur la Nature du Commerce en General" which is sometimes called the "Cradle of Political Economy." He was a smart man who understood economics a lot better than other people at the time. He was murdered in 1734.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
 
 ### The Essai
 
