@@ -45,4 +45,5 @@ date: "2021-05-02"
     - Plaid keeps your financial information safe from bad guys.
     it uses encryption to make sure no one can steal your money.
     - Plaid has a special computer system that lets you use your money without ever giving out your username or password.
+[If you want to play around with some of their code, just check it out here.](https://www.loom.com/share/bafe190631a24b739beefc81f863d3b0)
 
