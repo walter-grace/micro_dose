@@ -1,21 +1,19 @@
 ---
-title: Plaid
-date: "2021-05-02"
+title: /Design/
+date: "2021-06-01"
+description: "Life is all about design"
 ---
-<iframe src="https://giphy.com/embed/26gsbgf0uZDQb8hTW" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-jimmy-fallon-tonight-show-26gsbgf0uZDQb8hTW"></a></p>
 
->So, you're saying that you are able to connect your bank accounts to your credit cards to your other financial accounts, and then you can see all of your transactions at one place?
->Yes.
->And then you can pay bills and do other things with these accounts?
->Yes.
->And the bank doesn't know about it?
->No.
->There's a middleman?
->Yes.
-> But the bank still gets paid?
->Yes.
->And it's safe?
->Yes
+![](./Pan_Blue_Circle.png)
+
+
+![](./a.png)
+
+## desIgn 
+
+Everything we see through our eyes has a perceived color that we visualize to understand what it is we are seeing. 
+Many of the issues
+Most of what I was doing was more learning than doing. It was more from the vantage point of observing others and what they thought was unique.
 
 1. What is Plaid
     - Plaid is a company that helps banks and other financial services companies make it easier for third-party companies to make apps that you can use to do things like check your bank account, pay someone, or get a credit card.
@@ -47,4 +45,3 @@ date: "2021-05-02"
     it uses encryption to make sure no one can steal your money.
     - Plaid has a special computer system that lets you use your money without ever giving out your username or password.
 [Here is a tutorial showing off some of their code!](https://www.loom.com/share/bafe190631a24b739beefc81f863d3b0)
-
